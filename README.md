@@ -1,1 +1,1 @@
-# .github
+SmartHomes-kenya.github
