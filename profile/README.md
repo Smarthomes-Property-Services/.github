@@ -1,4 +1,4 @@
-## SmartHomes-Kenya 👋
+## https://github.com/SmartHomes-Kenya/rep 👋
 
 <!--
 
