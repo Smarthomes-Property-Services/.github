@@ -1,4 +1,4 @@
-#easy-Tenancy-Global-os👋
+#STRATERA Stack👋
 
 <!--
 
